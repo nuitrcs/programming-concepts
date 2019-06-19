@@ -20,6 +20,8 @@ Workshop Goals:
 
 # Resources
 
+A few links for more learning.
+
 ## If/else 
 
 [If/else exercise](https://docs.google.com/document/d/1wuC7wypejOSs9A8VfyECNNWuAJbSbzN4EHSrHi-sxxc/edit) from code.org
@@ -28,6 +30,6 @@ Workshop Goals:
 
 [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2) from Khan Academy: not topics we cover here, but a good basis for understanding the underlying systems
 
-[Plain Text Editor Options](https://workshops.rcs.northwestern.edu/install/texteditor/): soem suggestions for stand alone plain text editor programs and links to download them.  Note that both RStudio and Spyder (for Python) have the ability to edit plain text files.
+[Plain Text Editor Options](https://workshops.rcs.northwestern.edu/install/texteditor/): some suggestions for stand alone plain text editor programs and links to download them.  Note that both RStudio and Spyder (for Python) have the ability to edit plain text files.
 
 [Code.org CS Principles](https://curriculum.code.org/csp-18/) includes lesson plans for fundamental computational topics.  Written for teachers, not participants, but there may be useful material here for people who need to teach.

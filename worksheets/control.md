@@ -9,11 +9,7 @@ Programming Concepts Workshop | https://github.com/nuitrcs/programming-concepts
 
 The operator to test for equality is _______.
 
-Is the following **[ True or False ]**
-
-```
-(TRUE and FALSE) or (not FALSE and TRUE)
-```
+Is the following **[ True or False ]**; `(TRUE and FALSE) or (not FALSE and TRUE)`
 
 
 # Flow Control

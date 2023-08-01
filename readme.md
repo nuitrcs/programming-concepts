@@ -31,8 +31,6 @@ A few links for more learning.
 [Data Organization in Spreadsheets: Best Practices](https://github.com/nuitrcs/spreadsheets_workshop) workshop materials based on the excellent article "Data Organization in Spreadsheets," Karl W. Broman and Kara H. Woo, 
 The American Statistician, 2017, [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
 
-[How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2) from Khan Academy: not topics we cover here, but a good basis for understanding the underlying systems
-
-[Plain Text Editor Options](https://workshops.rcs.northwestern.edu/install/texteditor/): some suggestions for stand alone plain text editor programs and links to download them.  Note that both RStudio and Spyder (for Python) have the ability to edit plain text files.
+[How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work) from Khan Academy: not topics we cover here, but a good basis for understanding the underlying systems
 
 [Code.org CS Principles](https://curriculum.code.org/csp-18/) includes lesson plans for fundamental computational topics.  Written for teachers, not participants, but there may be useful material here for people who need to teach.
